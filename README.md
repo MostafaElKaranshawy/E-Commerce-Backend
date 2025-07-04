@@ -24,26 +24,26 @@ Design an e-commerce system that has these features:
 ## Class Diagram
 
 [Full Resolution](https://drive.google.com/file/d/1jUq8JCnh10phKv6lk1EsNS1EJE_OOuB8/view?usp=sharing)
-![alt text](image-7.png)
+![alt text](assets/class-diagram.png)
 
 ## Test Cases
 
 **1- Normal Operation**
 
-![alt text](image-2.png)
+![alt text](assets/test1.png)
 
 **2- Expired Items**
 
-![alt text](image-3.png)
+![alt text](assets/test2.png)
 
 **3- Out of Stock**
 
-![alt text](image-4.png)
+![alt text](assets/test3.png)
 
 **4- Empty Cart**
 
-![alt text](image-5.png)
+![alt text](assets/test4.png)
 
 **5- No Shipping**
 
-![alt text](image-6.png)
+![alt text](assets/test5.png)
